@@ -15,7 +15,7 @@ sudo cp -r ./Discord /opt/
 rm -rf ./Discord
 
 
-if [ ! -d "/opt/discord" ]; then
+if [ ! -d "/opt/Discord" ]; then
 	sudo ln -sf /opt/Discord/Discord /usr/bin/Discord
 	sudo cp -r /opt/Discord/discord.desktop /usr/share/applications
 
