@@ -8,6 +8,7 @@ tar -xzf Discord
 
 rm ./Discord/discord.desktop
 pkill Discord
+sleep 2 
 sudo cp -r ./Discord/* /opt/Discord/
 rm -rf ./Discord
 
