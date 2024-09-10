@@ -1,4 +1,4 @@
-# discord_bash
+# Updating-Discord-on-linux
 
 Discord installer and updater script for linux.
 
